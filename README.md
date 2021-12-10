@@ -14,9 +14,6 @@ A breakdown of what days of the week a user might be more likely to check out a 
 Resources
 Data Source: C:\Users\prave\OneDrive\Desktop\Data Analyst Bootcamp\Module-14\BikeSharing\201908-citibike-tripdata.csv
 Software: Jupyter Notebook, Tableau Public
-Resources
-Data Source: C:\Users\prave\OneDrive\Desktop\Data Analyst Bootcamp\Module-14\BikeSharing\201908-citibike-tripdata.csv
-Software: Jupyter Notebook, Tableau Public
 Link to Tableau Story
 Link to dashboard
 
