@@ -29,6 +29,11 @@ customers
 Citibike achieved an 81.06% Subscriber rate for the month of August in NYC.
 
 Bike Transactions Grouped by Trip Duration
+
+
+![image](https://user-images.githubusercontent.com/72875921/145640129-85ed42aa-ae47-444b-8177-e5ec55eb8f20.png)
+
+
 Average_Trip_Duration
 
 The 0-59 minute Trip Duration group represents 99.3% of transactions.
