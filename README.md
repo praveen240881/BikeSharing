@@ -23,7 +23,8 @@ Link to dashboard
 Results
 Subscriber vs Customer
 customers
-![customer vs Subscriber](https://user-Resources.github.com/72875921/145640515-fffd8388-2f34-4111-8b20-d18014be84c4.PNG)
+
+![customer vs Subscriber](https://user-images.githubusercontent.com/72875921/145640743-1c996228-8c5f-45f4-882d-54f4a8b26480.PNG)
 
 
 
@@ -39,10 +40,12 @@ Bike Transactions Grouped by Trip Duration
 
 Average_Trip_Duration
 
+![Average_Trip_Duration](https://user-images.githubusercontent.com/72875921/145640789-3931ec69-5bdf-462a-b4da-9d928e269285.PNG)
 
 The 0-59 minute Trip Duration group represents 99.3% of transactions.
 Bike Transactions by Gender, Grouped by Trip Duration
 Average_Trip_Duration_Gender
+![Trip_duration_Gender](https://user-images.githubusercontent.com/72875921/145640847-098ef4d0-d318-400f-858b-ab4e7ff8cf79.PNG)
 
 The 0-59 is most attractive to the male audience (orange), followed by the female (blue) and lastly unknown (red).
 
@@ -50,6 +53,9 @@ The 5 minute duration is most popular, while duration times even out amongst all
 
 Trips by Weekday
 Weekday_Trips
+![Weekday by hour](https://user-images.githubusercontent.com/72875921/145641074-e3103d46-ad86-41ad-a795-03507626f3a5.PNG)
+
+
 
 The service is very appealing to those who want a hassle free way to travel to work.
 
@@ -65,12 +71,17 @@ Sunday 9AM-8PM
 Trips by Weekday by Gender
 trips_by_weekday_by_gender
 
+![Gender by Weekday](https://user-images.githubusercontent.com/72875921/145641187-dc984d98-89af-4cbb-bfe7-d54f3355689e.PNG)
+
+
 The data is filtered to the hours with most demand.
 
 While males use the service more heavily than females, the demand trend is pretty similar.
 Unknown genders primarily use the service on weekends. Indicative of travelers who aren't interested in providing demographic information.
 User Trips Gender by Weekday
 user_trips_gender_weekday
+![Gender by weekday viz](https://user-images.githubusercontent.com/72875921/145641245-475a51e3-fa6a-4a02-ba3d-0d97519a3bae.PNG)
+
 
 Male Subscribers are the largest group of service users, followed by female subscribers and lastly the Unknown customers.
 
@@ -78,6 +89,8 @@ The largest demand for subscribers Monday through Friday, with Thursday being th
 
 Bike Utilization
 bike_utilization
+![Bike Utilization](https://user-images.githubusercontent.com/72875921/145641308-a1030ce6-3d91-49cb-aa3a-97309c94a082.PNG)
+
 
 Bike maintenance and repairs is a cost to the service that must be managed well. The circle chart highlights the utilization rate for each bike.
 
